@@ -33,7 +33,7 @@ This section details the steps taken during the installation and the outcome of 
 *   **Procedure:** Followed the [omni-guides.sh Automation Script](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Using-the-omni%E2%80%90guides.sh-Automation-Script) to automate post-installation tasks.
 *   **Issue:** The initial launch attempt triggered a "FrameGen Check" error pop-up (see image below). The second attempt successfully opened Mod Organizer 2 (MO2).
 *   **Error Screenshot:**
-    *Note: Image will be added in a later step.*
+    ![FrameGen Check Error](FrameGenError.png)
 
 ### 2.3. Initial Game Launch Attempt - 🔴 Failure
 *   **Action:** Attempted to launch the game using the default Wunduniik executable in MO2.
@@ -60,4 +60,4 @@ Unlike the expected crash during the initial setup, all subsequent attempts to l
     ```
 *   **Analysis:** This persistent error indicates a fatal crash within Wine's Vulkan implementation, preventing the game from running.
 *   **Error Screenshot:**
-    *Note: Image will be added in a later step.*
+    ![Wine Vulkan Error](Loder_Thunk.png)
