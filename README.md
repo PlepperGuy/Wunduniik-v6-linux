@@ -60,4 +60,4 @@ Unlike the expected crash during the initial setup, all subsequent attempts to l
     ```
 *   **Analysis:** This persistent error indicates a fatal crash within Wine's Vulkan implementation, preventing the game from running.
 *   **Error Screenshot:**
-    ![Wine Vulkan Error](Loder_Thunk.png)
+    ![Wine Vulkan Error](Loader_Thunk.png)
