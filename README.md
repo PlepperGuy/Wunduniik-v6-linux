@@ -7,7 +7,7 @@ Wunduniik V6 is not officially supported on Linux by the modlist's creator, Alax
 The process involves two main steps: first, installing Wabbajack via Proton, and then using the Omni-guide's automation script to install the modpack itself.
 
 *   **Install Wabbajack:** Follow the instructions in the [Wabbajack via Proton Guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Wabbajack-via-Proton).
-*   **Install the Modpack:** Once Wabbajack is installed, use the [omni-guides.sh automation script](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Using-the-omni%E2%80%90guides.sh-Automation-Script) to install the modlist.
+*   **Install the Modpack:** Once Wabbajack is installed, use the [omni-guides.sh automation script](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Using-the-omni%E2%80%90guides.sh-Automation-Script) to install the modpack.
 
 > **Note:** When you launch Mod Organizer 2 for the first time after the installation finishes, an error from the **Frame Gen Compatibility Checker** will appear. This is expected because the checker does not work on Linux. Simply click **OK** to dismiss the message and continue.
 
