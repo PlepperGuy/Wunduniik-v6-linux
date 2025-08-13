@@ -31,7 +31,7 @@ To resolve the Frame Generation error, you must manually delete a specific flag 
 
 #### Game Closes Immediately After Launch
 
-If the game immediately closes after a brief loading screen (specifically after showing the `VFS` logs), you may need to force the vanilla launcher to generate a configuration file.
+If the game immediately closes after a brief loading screen (specifically after showing the `VFS` loading), you may need to force the vanilla launcher to generate a configuration file.
 
 * In MO2, open the executable dropdown menu and select **Edit**.
 * Click the **+** button at the top of the list to add a new executable.
