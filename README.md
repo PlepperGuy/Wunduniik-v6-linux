@@ -25,7 +25,7 @@ This section provides an overview of the hardware and software used for this tes
 This section details the steps taken during the installation and the outcome of each phase.
 
 ### 2.1. Wabbajack & Modlist Installation - ✅ Success (with manual intervention)
-*   **Procedure:** Installed the modlist using Wabbajack launched via **Proton 10-10**, following the [Omni-guides method](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Wabbajack-via-Proton).
+*   **Procedure:** Installed the modlist using Wabbajack launched via **Proton 10-12**, following the [Omni-guides method](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Wabbajack-via-Proton).
 *   **Issue:** Wabbajack failed to download four files (`Synthesis.zip`, and three others from Nexus).
 *   **Workaround:** The files were downloaded manually and placed in the `downloads` folder, allowing the installation to proceed.
 
